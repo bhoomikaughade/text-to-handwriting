@@ -1,0 +1,33 @@
+Hello, this is my handwriting demo.
+Python is converting text into handwriting style!
+
+Python is a high-level, interpreted, and general-purpose programming language that is widely used across the world. 
+It is known for its simplicity and readability, making it one of the most beginner-friendly languages.
+Python is cross-platform, meaning it works on Windows, macOS, and Linux, and it supports multiple programming styles, including object-oriented and procedural programming. 
+Being open-source, it is free to use and has a very large community that constantly contributes to its growth.
+Python is extremely versatile and is used in web development, data science, machine learning, artificial intelligence, automation, game development, and even the Internet of Things (IoT). 
+Popular frameworks and libraries such as Django and Flask for web development, NumPy and Pandas for data analysis, TensorFlow and PyTorch for machine learning, and Selenium for automation make Python powerful and useful in real-world applications. 
+Its simple syntax, almost like English, makes it a preferred choice for both beginners and professionals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+python text2hand.py input.txt output.png --font handwriting.ttf --size 48
+python text2hand.py input.txt output1.png --font PatrickHand-Regular.ttf --size 48
+python text2hand.py input.txt output.pdf --font handwriting.ttf --size 48
